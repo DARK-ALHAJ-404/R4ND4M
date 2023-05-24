@@ -6,7 +6,9 @@
 
 <3> cd R4ND4M
 
-<4> python RANDOM.py
+< 1F TOOLS > python RANDOM.py
+
+< 2F TOOLS > python R4ND4M.py
 
 # Facebook Group 1 <=> https://facebook.com/groups/1713018672413612/
 
